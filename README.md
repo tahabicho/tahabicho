@@ -1,13 +1,13 @@
 # 👋 Salut, moi c’est Taha
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B2FF&width=435&lines=Développeur+Web+et+Architecte+chez+SmartComing;Passionné+par+les+outils+utiles+et+la+gouvernance+tech;Toujours+en+quête+de+solutions+pratiques+et+inclusives)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B2FF&width=435&lines=Développeur+Web+chez+SmartComing;Passionné+par+les+outils+utiles+et+la+gouvernance+tech;Toujours+en+quête+de+solutions+pratiques+et+inclusives)
 
 ---
 
 ## 🎨 À propos de moi
 
 Je suis un jeune créateur de solutions numériques, passionné par le développement web, la gouvernance en startup, et les outils qui facilitent la vie des équipes.  
-Actuellement développeur et architecte chez **SmartComing**, je combine technique, organisation et diplomatie pour faire avancer les projets.
+Actuellement développeur chez **SmartComing**, je combine technique, organisation et diplomatie pour faire avancer les projets.
 
 > “Construire, c’est résoudre des problèmes réels avec du code utile.”
 
