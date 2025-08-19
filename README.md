@@ -60,9 +60,9 @@ Mini-projets en Unity, C# et .NET pour apprendre en construisant.
 
 ## 📊 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taha-bichouina&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=taha-bichouina&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taha-bichouina&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahabicho&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tahabicho&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahabicho&layout=compact&theme=radical)
 
 ---
 
