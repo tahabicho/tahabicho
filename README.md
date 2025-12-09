@@ -1,4 +1,4 @@
-# 👋 Salut, moi c’est Taha
+# 👋 Salut, moi c’est Taha Bichouina
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B2FF&width=435&lines=Développeur+Web+chez+SmartComing;Passionné+par+les+outils+utiles+et+la+gouvernance+tech;Toujours+en+quête+de+solutions+pratiques+et+inclusives)
 
