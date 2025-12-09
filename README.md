@@ -70,8 +70,8 @@ Mini-projets en Unity, C# et .NET pour apprendre en construisant.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tahabicho) 
 - 📧 Email : tahabichouina@outlook.fr
-- 🌐 [GitHub](https://github.com/taha-bichouina)
+- 🌐 [GitHub](https://github.com/tahabicho)
 
 ---
 
-⭐ Profil créé par [Taha](https://github.com/taha-bichouina)
+⭐ Profil créé par [Taha](https://github.com/tahabicho)
